@@ -1,7 +1,7 @@
 #!/bin/bash
 
-PERSION1=ramesh
-PERSION2=suresh
+PERSION1=ram
+PERSION2=sita
 
 echo "$PERSION1:: hello $PERSION2, good mrng"
 echo "$PERSION2:: gi $PERSION1, very good mrng"
